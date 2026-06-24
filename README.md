@@ -18,9 +18,9 @@ Profit margin analysis
 Segmentation analysis
 * Key Insights
   ----------
-Highest profit region: X
+Highest profit region: 
 Best channel: Online
-Profit leakage areas: Product Y
+Profit leakage areas: Product 
 * Recommendation
    -----------
 Optimize low-margin products
